@@ -10,11 +10,11 @@ file,ghost/master/descript.txt8f51e4a5e08fc859b4fc286f5544b73esize=238date=20
 file,ghost/master/dic/emerg/yaya_emerg_dic.dicafd0b1b5b1651c40b167a9a766b354fdsize=641date=2012-12-21T00:00:00
 file,ghost/master/dic/emerg/yaya_homeurl.dice4416b4af9cab042d9355d941fca8a97size=646date=2012-12-21T00:00:00
 file,ghost/master/dic/normal/yaya_aitalk.dicf567997e14386ec1037dee8b7b528595size=6547date=2012-12-21T00:00:00
-file,ghost/master/dic/normal/yaya_bootend.dic7e91b30218ddb533eba66a94dd4f3f7asize=4697date=2012-12-21T00:00:00
+file,ghost/master/dic/normal/yaya_bootend.dic4feb63304efca233715dc77455d0803bsize=4708date=2012-12-21T00:00:00
 file,ghost/master/dic/normal/yaya_change.dicb45cd5144effdf73f3c0d00c757ad81asize=3555date=2012-12-21T00:00:00
 file,ghost/master/dic/normal/yaya_communicate.dicd167f64b5a2873186d4f3ab444efc1c8size=3535date=2012-12-21T00:00:00
 file,ghost/master/dic/normal/yaya_etc.dicb68d36fb38be32940d851e94a37a3179size=13915date=2012-12-21T00:00:00
-file,ghost/master/dic/normal/yaya_feeding.dic0b4804fe746f205b0ee1c00f751ee78esize=33296date=2012-12-21T00:00:00
+file,ghost/master/dic/normal/yaya_feeding.dic072bb0433a375d5b74e0ad76f253bf49size=34623date=2012-12-21T00:00:00
 file,ghost/master/dic/normal/yaya_homeurl.dice4416b4af9cab042d9355d941fca8a97size=646date=2012-12-21T00:00:00
 file,ghost/master/dic/normal/yaya_menu.dic1bfac3a022d351c09801aa3c09b119ebsize=8424date=2012-12-21T00:00:00
 file,ghost/master/dic/normal/yaya_mouse.dic7504b9446a09bb5bd8fd9a4654ffe88esize=4625date=2012-12-21T00:00:00
@@ -32,7 +32,6 @@ file,ghost/master/yaya.dll49b388973209005e5586f9e54b008bb1size=880640date=201
 file,ghost/master/yaya.txtc720df5cb99a1e84891b871c99a712absize=1993date=2012-12-21T00:00:00
 file,ghost/master/yaya_emerg.txtd9ee78e2068ff80d809325bd4fa8228bsize=1055date=2012-12-21T00:00:00
 file,ghost/master/yaya_variable.cfgaf6b82b6d072924e9f31de2b2170e18asize=8849date=2012-12-21T00:00:00
-file,gitignore.txt053e2f3caf27ae65737567710e72bfedsize=152date=2012-12-21T00:00:00
 file,install.txta9d0584ac58ccc1303f607537d4c5e2asize=86date=2012-12-21T00:00:00
 file,readme.txt6fef13be8d59b62f118a35c7c95a5735size=392date=2012-12-21T00:00:00
 file,shell/master/descript.txt5ac2059912563784b7e8a736d699298fsize=582date=2012-12-21T00:00:00
