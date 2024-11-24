@@ -1,0 +1,10 @@
+Charset,UTF-8
+install,784548044
+homeurl_found,1
+surfacecount,56
+homeurl,http://ms.shillest.net/ghost/konnoyayame/
+update_result,OK(0)
+firstboot,784548048
+update_time,784548145
+commitmemorysize,1043377
+lastboot,785764206

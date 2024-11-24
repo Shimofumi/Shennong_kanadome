@@ -1,0 +1,4 @@
+charset,UTF-8
+type,ghost
+name,餌付けしよ！神農氏
+directory,Shennong_kanadome

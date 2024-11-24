@@ -1,0 +1,312 @@
+//******************************************************************************
+// YAYA　ゴーストテンプレート
+// メニュー処理辞書
+//******************************************************************************
+
+//******************************************************************************
+//メインメニューの展開
+//
+//AYATEMPLATE.MenuItemの使い方
+//1つめの文字列＝選択肢に表示する文字列
+//2つめの文字列＝選んだときに実行される関数名
+//3つめの文字列＝改行する量　50%刻み　省略すると100%（＝\n）
+//******************************************************************************
+
+//------------------------------------------------------------------------------
+//メインメニュー展開
+//------------------------------------------------------------------------------
+OpenMenu
+{
+	\b[2]
+	--
+	'\0\s[1005]献上せよ！'
+	"\0\s[1005]何をくれるのだ？"
+	'\0\s[1061]（目をキラキラと輝かせている）'
+	--
+	AYATEMPLATE.MenuItem("テングタケ","feed_tengutake",200)
+	--
+	AYATEMPLATE.MenuItem("イボテングタケ","feed_ibotengutake")
+	--
+	AYATEMPLATE.MenuItem("アカハテングタケ","feed_akahatengutake")
+	--
+	AYATEMPLATE.MenuItem("ドクツルタケ","feed_dokutsurutake")
+	--
+	AYATEMPLATE.MenuItem("ホコリタケ？","feed_nothokoritake")
+	--
+	AYATEMPLATE.MenuItem("次のページへ","OpenMenu_2",250)
+	--
+}
+
+OpenMenu_menu
+{
+	AYATEMPLATE.MenuItem("トーク間隔","Menu_TALKINTERVAL",200)
+}
+
+//------------------------------------------------------------------------------
+//二ページ目以降のメニュー
+//------------------------------------------------------------------------------
+OpenMenu_2
+{
+	\b[2]
+	--
+	'\0\s[1005]献上せよ！'
+	"\0\s[1005]何をくれるのだ？"
+	'\0\s[1061]（目をキラキラと輝かせている）'
+	--
+	AYATEMPLATE.MenuItem("ドクベニタケ","feed_dokubenitake",200)
+	--
+	AYATEMPLATE.MenuItem("ニオイコベニタケ","feed_nioikobenitake")
+	--
+	AYATEMPLATE.MenuItem("チシオハツ","feed_chishiohatsu")
+	--
+	AYATEMPLATE.MenuItem("カワリハツ？","feed_kawarihastu")
+	--
+	AYATEMPLATE.MenuItem("ヤブレベニタケ","feed_yaburebenitake")
+	--
+	AYATEMPLATE.MenuItem("前のページへ","OpenMenu",150)
+	--
+	AYATEMPLATE.MenuItem("次のページへ","OpenMenu_3",100)
+}
+
+OpenMenu_3
+{
+	\b[2]
+	--
+	'\0\s[1005]献上せよ！'
+	"\0\s[1005]何をくれるのだ？"
+	'\0\s[1061]（目をキラキラと輝かせている）'
+	--
+	AYATEMPLATE.MenuItem("ツキヨタケ","feed_tsukiyotake",200)
+	--
+	AYATEMPLATE.MenuItem("カキシメジ","feed_kakishimeji")
+	--
+	AYATEMPLATE.MenuItem("クサウラベニタケ","feed_kusaurabenitake")
+	--
+	AYATEMPLATE.MenuItem("オオシロカラカサタケ","feed_ooshirokarakasatake")
+	--
+	AYATEMPLATE.MenuItem("カエンタケ","feed_kaentake")
+	--
+	AYATEMPLATE.MenuItem("前のページへ","OpenMenu_2",150)
+	--
+	AYATEMPLATE.MenuItem("次のページへ","OpenMenu_4",100)
+}
+
+OpenMenu_4
+{
+	\b[2]
+	--
+	'\0\s[1005]献上せよ！'
+	"\0\s[1005]何をくれるのだ？"
+	'\0\s[1061]（目をキラキラと輝かせている）'
+	--
+	AYATEMPLATE.MenuItem("ドクヤマドリ","feed_dokuyamadori",200)
+	--
+	AYATEMPLATE.MenuItem("バライロウラベニイロガワリ","feed_barairourabeniirogawari")
+	--
+	AYATEMPLATE.MenuItem("ミカワクロアミアシイグチ","feed_mikawakuroamiashiiguchi")
+	--
+	AYATEMPLATE.MenuItem("アミタケ","feed_amitake")
+	--
+	AYATEMPLATE.MenuItem("ヌメリイグチ","feed_numeriiguchi")
+	--
+	AYATEMPLATE.MenuItem("前のページへ","OpenMenu_3",150)
+	--
+	AYATEMPLATE.MenuItem("次のページへ","OpenMenu_5",100)
+}
+
+OpenMenu_5
+{
+	\b[2]
+	--
+	'\0\s[1005]献上せよ！'
+	"\0\s[1005]何をくれるのだ？"
+	'\0\s[1061]（目をキラキラと輝かせている）'
+	--
+	AYATEMPLATE.MenuItem("ヤマドリタケモドキ","feed_yamadoritakemodoki",200)
+	--
+	AYATEMPLATE.MenuItem("オニイグチモドキ","feed_oniiguchimodoki")
+	--
+	AYATEMPLATE.MenuItem("宿ったグズグズのイグチ","feed_Hypomyces")
+	--
+	AYATEMPLATE.MenuItem("アシベニイグチ？","feed_ashibeniiguchi")
+	--
+	AYATEMPLATE.MenuItem("ニセアシベニイグチ","feed_niseashibeniiguchi")
+	--
+	AYATEMPLATE.MenuItem("前のページへ","OpenMenu_4",150)
+	--
+	AYATEMPLATE.MenuItem("次のページへ","OpenMenu_6",100)
+}
+
+OpenMenu_6
+{
+	\b[2]
+	--
+	'\0\s[1005]献上せよ！'
+	"\0\s[1005]何をくれるのだ？"
+	'\0\s[1061]（目をキラキラと輝かせている）'
+	--
+	AYATEMPLATE.MenuItem("ニセクロハツ","feed_nisekurohatsu",200)
+	--
+	AYATEMPLATE.MenuItem("クロハツ？","feed_notkurohatsu")
+	--
+	AYATEMPLATE.MenuItem("ヒトヨタケ","feed_hitoyotake")
+	--
+	AYATEMPLATE.MenuItem("シャグマアミガサタケ","feed_shagumaamigasatake")
+	--
+	AYATEMPLATE.MenuItem("ニガクリタケ","feed_nigakuritake")
+	--
+	AYATEMPLATE.MenuItem("前のページへ","OpenMenu_5",150)
+	--
+	AYATEMPLATE.MenuItem("次のページへ","OpenMenu_7",100)
+}
+
+OpenMenu_7
+{
+	\b[2]
+	--
+	'\0\s[1005]献上せよ！'
+	"\0\s[1005]何をくれるのだ？"
+	'\0\s[1061]（目をキラキラと輝かせている）'
+	--
+	AYATEMPLATE.MenuItem("シイタケ？","feed_notshiitake",200)
+	--
+	AYATEMPLATE.MenuItem("ドクササコ","feed_dokusasako")
+	--
+	AYATEMPLATE.MenuItem("スギヒラタケ","feed_sugihiratake")
+	--
+	AYATEMPLATE.MenuItem("スーパーキノコ","feed_marionoare")
+	--
+	AYATEMPLATE.MenuItem("アオキノコ","feed_aokinoko")
+	--
+	AYATEMPLATE.MenuItem("前のページへ","OpenMenu_6",150)
+	--
+	AYATEMPLATE.MenuItem("次のページへ","OpenMenu_8",100)
+}
+
+OpenMenu_8
+{
+	\b[2]
+	--
+	'\0\s[1005]献上せよ！'
+	"\0\s[1005]何をくれるのだ？"
+	'\0\s[1061]（目をキラキラと輝かせている）'
+	--
+	AYATEMPLATE.MenuItem("水銀","feed_mizugane",200)
+	--
+	AYATEMPLATE.MenuItem("青酸カリ","feed_seisankari")
+	--
+	AYATEMPLATE.MenuItem("乞食の死体","feed_kojikinoshitai")
+	--
+	AYATEMPLATE.MenuItem("馬乳酒","feed_banyuushu")
+	--
+	AYATEMPLATE.MenuItem("黄金","feed_gold")
+	--
+	AYATEMPLATE.MenuItem("前のページへ","OpenMenu_7",150)
+	--
+	AYATEMPLATE.MenuItem("おしまい","OpenMenu",100)
+}
+
+//------------------------------------------------------------------------------
+//メニュー選択タイムアウト
+//------------------------------------------------------------------------------
+OnChoiceTimeout
+{
+	'\1\s[2043]あなたの仕事は、\w9カナドメさんをつついて食べ物を献上することです。\e'
+	'\1\s[2043]カナドメさんは、\w9毒のあるものも食べることができます。\e'
+
+}
+
+
+//******************************************************************************
+//各項目の処理内容
+//******************************************************************************
+
+//---- 何か話して
+Menu_AITALK
+{
+	//---- 明示的にAIトーク開始を指示
+	OnAiTalk
+}
+
+//---- さっきの話は
+Menu_LASTTALK
+{
+	AYATEMPLATE.LastTalk
+}
+
+//---- トーク頻度の調整
+Menu_TALKINTERVAL
+{
+	'\0\s[0]どのくらいがいいのかな？'
+	--
+	AYATEMPLATE.MenuItem("うるさいくらい","Menu_TALKMAX",200)
+	--
+	AYATEMPLATE.MenuItem("5分","Menu_TALKNORMAL")
+	--
+	AYATEMPLATE.MenuItem("10分","Menu_TALKPOOR")
+	--
+	AYATEMPLATE.MenuItem("黙らせる","Menu_TALKNONE")
+	--
+	AYATEMPLATE.MenuItem("戻る","OpenMenu",150)
+}
+
+
+
+//---- ややめに話しかける
+Menu_COMMUNICATEOPEN
+{
+	'\0\s[5]はいっ。\![open,communicatebox]\e'
+}
+
+//---- 他のゴーストと話す
+Menu_GHOSTCOMSTART
+{
+	StartCommunicate
+}
+
+//---- キャンセルされた
+Menu_CANCEL
+{
+	'\0\s[0]‥\w6‥\w6。\e'
+}
+
+//---- トーク頻度
+Menu_TALKMAX
+{
+	//---- うるさく話す(15秒間隔)
+	aitalkinterval = 15
+	'\1\s[10]15秒おきに。\n\w9話すより、\w9カナドメさんに\w9なんか食わせようよ\e'
+}
+
+Menu_TALKNORMAL
+{
+	//---- ふつうに話す(5分間隔)
+	aitalkinterval = 300
+	'\1\s[10]5分おきに。\n\w9話すより、\w9カナドメさんに\w9なんか食わせようよ\e'
+}
+
+Menu_TALKPOOR
+{
+	//---- 静かに話す(10分間隔)
+	aitalkinterval = 600
+	'\1\s[10]10分おきに。\n\w9話すより、\w9カナドメさんに\w9なんか食わせようよ。\e'
+}
+
+Menu_TALKNONE
+{
+	//---- 話さない
+	aitalkinterval = 0
+	'\1\s[10]うむ。\e'
+}
+
+//---- ヘッドライン
+Menu_HEADLINECANCEL
+{
+	//---- キャンセルされた
+	'\1\s[10]はーい。\e'
+}
+
+dokujoutaiInitialize
+{
+	dokujoutai = 0
+}

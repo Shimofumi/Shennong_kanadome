@@ -1,0 +1,17 @@
+charset,UTF-8
+
+name,餌付けしよ！神農氏
+type,ghost
+
+sakura.name,カナドメ
+kero.name,へーちゃん
+
+
+
+icon,icon.ico
+
+shiori,yaya.dll
+
+craftman,Shimofumi
+craftmanw,しもふみ
+craftmanurl,https://ukadon.shillest.net/@Shimofumi

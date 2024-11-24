@@ -1,0 +1,770 @@
+//satolist.palette.expand,0.80
+//satolist.palette.offset,230,150
+charset,Shift_JIS
+descript
+{
+version,1
+}
+
+//„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ•’Ê
+
+surface0,1010,1020,1030,1040,1500,1510,1520,1530,1540
+{
+	element0,overlay,surface0000.png,0,0
+	element1,overlay,surface0300.png,0,0
+	element2,overlay,surface0400.png,0,0
+}
+
+surface1001,1011,1021,1031,1041,1501,1511,1521,1531,1541
+{
+	element0,overlay,surface0000.png,0,0
+	element1,overlay,surface0302.png,0,0
+	element2,overlay,surface0400.png,0,0
+}
+
+surface1002,1012,1022,1032,1042
+{
+	element0,overlay,surface0000.png,0,0
+	element1,overlay,surface0303.png,0,0
+	element2,overlay,surface0400.png,0,0
+}
+
+surface1003,1013,1023,1033,1043,1502,1512,1522,1532,1542
+{
+	element0,overlay,surface0000.png,0,0
+	element1,overlay,surface0304.png,0,0
+	element2,overlay,surface0400.png,0,0
+}
+
+surface1004,1014,1024,1034,1044,1503,1513,1523,1533,1543
+{
+	element0,overlay,surface0000.png,0,0
+	element1,overlay,surface0305.png,0,0
+	element2,overlay,surface0400.png,0,0
+}
+
+surface1005,1015,1025,1035,1045,1504,1514,1524,1534,1544
+{
+	element0,overlay,surface0000.png,0,0
+	element1,overlay,surface0306.png,0,0
+	element2,overlay,surface0400.png,0,0
+}
+
+surface1060,1560
+{
+	element0,overlay,surface0000.png,0,0
+	element1,overlay,surface0301.png,0,0
+	element2,overlay,surface0400.png,0,0
+}
+
+surface1061,1561
+{
+	element0,overlay,surface0000.png,0,0
+	element1,overlay,surface0307.png,0,0
+	element2,overlay,surface0400.png,0,0
+}
+
+surface1062,1562
+{
+	element0,overlay,surface0000.png,0,0
+	element1,overlay,surface0308.png,0,0
+	element2,overlay,surface0400.png,0,0
+}
+
+//„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ‚É‚±
+
+surface1100,1110,1120,1130,1140,1150,1600,1610,1620,1630,1640,1650
+{
+	element0,overlay,surface0000.png,0,0
+	element1,overlay,surface0309.png,0,0
+	element2,overlay,surface0400.png,0,0
+}
+
+surface1101,1111,1121,1131,1141,1151,1601,1611,1621,1631,1641,1651
+{
+	element0,overlay,surface0000.png,0,0
+	element1,overlay,surface0310.png,0,0
+	element2,overlay,surface0400.png,0,0
+}
+
+surface1102,1112,1122,1132,1142,1152,1602,1612,1622,1632,1642,1652
+{
+	element0,overlay,surface0000.png,0,0
+	element1,overlay,surface0311.png,0,0
+	element2,overlay,surface0400.png,0,0
+}
+
+surface1103,1113,1123,1133,1143,1153,1603,1613,1623,1633,1643,1653
+{
+	element0,overlay,surface0000.png,0,0
+	element1,overlay,surface0312.png,0,0
+	element2,overlay,surface0400.png,0,0
+}
+
+//„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ‚È‚«
+
+surface1200,1210,1220,1230,1240,1700,1710,1720,1730,1740
+{
+	element0,overlay,surface0000.png,0,0
+	element1,overlay,surface0300.png,0,0
+	element2,overlay,surface0401.png,0,0
+}
+
+surface1201,1211,1221,1231,1241,1701,1711,1721,1731,1741
+{
+	element0,overlay,surface0000.png,0,0
+	element1,overlay,surface0301.png,0,0
+	element2,overlay,surface0401.png,0,0
+}
+
+surface1202,1212,1222,1232,1242,1702,1712,1722,1732,1742
+{
+	element0,overlay,surface0000.png,0,0
+	element1,overlay,surface0305.png,0,0
+	element2,overlay,surface0401.png,0,0
+}
+
+surface1203,1213,1223,1233,1243,1703,1713,1723,1733,1743
+{
+	element0,overlay,surface0000.png,0,0
+	element1,overlay,surface0306.png,0,0
+	element2,overlay,surface0401.png,0,0
+}
+
+surface1204,1214,1224,1234,1244,1704,1714,1724,1734,1744
+{
+	element0,overlay,surface0000.png,0,0
+	element1,overlay,surface0307.png,0,0
+	element2,overlay,surface0401.png,0,0
+}
+
+surface1205,1215,1225,1235,1245,1705,1715,1725,1735,1745
+{
+	element0,overlay,surface0000.png,0,0
+	element1,overlay,surface0308.png,0,0
+	element2,overlay,surface0401.png,0,0
+}
+
+surface1206,1216,1226,1236,1246,1250,1706,1716,1726,1736,1746,1750
+{
+	element0,overlay,surface0000.png,0,0
+	element1,overlay,surface0309.png,0,0
+	element2,overlay,surface0401.png,0,0
+}
+
+surface1207,1217,1227,1237,1247,1251,1707,1717,1727,1737,1747,1751
+{
+	element0,overlay,surface0000.png,0,0
+	element1,overlay,surface0312.png,0,0
+	element2,overlay,surface0401.png,0,0
+}
+
+//„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ‚¨‚±
+
+surface1300,1310,1320,1330,1340
+{
+	element0,overlay,surface0000.png,0,0
+	element1,overlay,surface0300.png,0,0
+	element2,overlay,surface0402.png,0,0
+}
+
+surface1301,1311,1321,1331,1341,1800,1810,1820,1830,1840
+{
+	element0,overlay,surface0000.png,0,0
+	element1,overlay,surface0301.png,0,0
+	element2,overlay,surface0402.png,0,0
+}
+
+surface1302,1312,1322,1332,1342,1801,1811,1821,1831,1841
+{
+	element0,overlay,surface0000.png,0,0
+	element1,overlay,surface0302.png,0,0
+	element2,overlay,surface0402.png,0,0
+}
+
+surface1303,1313,1323,1333,1343,1802,1812,1822,1832,1842
+{
+	element0,overlay,surface0000.png,0,0
+	element1,overlay,surface0305.png,0,0
+	element2,overlay,surface0402.png,0,0
+}
+
+surface1304,1314,1324,1334,1344
+{
+	element0,overlay,surface0000.png,0,0
+	element1,overlay,surface0306.png,0,0
+	element2,overlay,surface0402.png,0,0
+}
+
+surface1305,1315,1325,1335,1345,1803,1813,1823,1833,1843
+{
+	element0,overlay,surface0000.png,0,0
+	element1,overlay,surface0307.png,0,0
+	element2,overlay,surface0402.png,0,0
+}
+
+surface1306,1316,1326,1336,1346,1804,1814,1824,1834,1844
+{
+	element0,overlay,surface0000.png,0,0
+	element1,overlay,surface0308.png,0,0
+	element2,overlay,surface0402.png,0,0
+}
+
+surface1307,1317,1327,1337,1347,1350,1805,1815,1825,1835,1845,1850
+{
+	element0,overlay,surface0000.png,0,0
+	element1,overlay,surface0310.png,0,0
+	element2,overlay,surface0402.png,0,0
+}
+
+//„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ–ÚƒAƒjƒ
+surface0,1001-1005,1100-1103,1200-1207,1300-1307
+{
+	animation0.interval,periodic,4
+	animation0.pattern0,overlay,100,0,0,0
+	animation0.pattern1,overlay,104,100,0,0
+	animation0.pattern2,overlay,107,80,0,0
+	animation0.pattern3,overlay,101,80,0,0
+	animation0.pattern4,overlay,100,80,0,0
+}
+
+surface1010-1015,1110-1113,1210-1217,1310-1317
+{
+	animation1.interval,periodic,4
+	animation1.pattern0,overlay,101,0,0,0
+	animation1.pattern1,overlay,104,100,0,0
+	animation1.pattern2,overlay,107,80,0,0
+	animation1.pattern3,overlay,101,80,0,0
+}
+
+surface1020-1025,1120-1123,1220-1227,1320-1327
+{
+	animation2.interval,periodic,4
+	animation2.pattern0,overlay,102,0,0,0
+	animation2.pattern1,overlay,104,100,0,0
+	animation2.pattern2,overlay,108,80,0,0
+	animation2.pattern3,overlay,103,80,0,0
+	animation2.pattern4,overlay,102,80,0,0
+}
+
+surface1030-1035,1130-1133,1230-1237,1330-1337
+{
+	animation3.interval,periodic,4
+	animation3.pattern0,overlay,103,0,0,0
+	animation3.pattern1,overlay,104,100,0,0
+	animation3.pattern2,overlay,108,80,0,0
+	animation3.pattern3,overlay,103,80,0,0
+}
+
+surface1040-1045,1140-1143,1240-1247,1340-1347
+{
+	element3,overlay,surface0104.png,0,0
+}
+
+surface1150-1153,1250-1251,1350
+{
+	element3,overlay,surface0105.png,0,0
+}
+
+surface1060-1062
+{
+	animation4.interval,periodic,4
+	animation4.pattern0,overlay,106,0,0,0
+	animation4.pattern1,overlay,104,100,0,0
+	animation4.pattern2,overlay,109,80,0,0
+	animation4.pattern3,overlay,106,80,0,0
+}
+
+//„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ–ÚƒAƒjƒÆ‚ê
+surface1500-1504,1600-1603,1700-1707,1800-1805
+{
+	element4,overlay,surface0200.png,0,0
+
+	animation5.interval,periodic,4
+	animation5.pattern0,overlay,100,0,0,0
+	animation5.pattern1,overlay,104,100,0,0
+	animation5.pattern2,overlay,107,80,0,0
+	animation5.pattern3,overlay,101,80,0,0
+	animation5.pattern4,overlay,100,80,0,0
+}
+
+surface1510-1514,1610-1613,1710-1717,1810-1815
+{
+	element4,overlay,surface0200.png,0,0
+
+	animation6.interval,periodic,4
+	animation6.pattern0,overlay,100,0,0,0
+	animation6.pattern1,overlay,104,100,0,0
+	animation6.pattern2,overlay,107,80,0,0
+	animation6.pattern3,overlay,101,80,0,0
+}
+
+surface1520-1524,1620-1623,1720-1727,1820-1825
+{
+	element4,overlay,surface0200.png,0,0
+
+	animation7.interval,periodic,4
+	animation7.pattern0,overlay,102,0,0,0
+	animation7.pattern1,overlay,104,100,0,0
+	animation7.pattern2,overlay,108,80,0,0
+	animation7.pattern3,overlay,103,80,0,0
+	animation7.pattern4,overlay,102,80,0,0
+}
+
+surface1530-1534,1630-1633,1730-1737,1830-1835
+{
+	element4,overlay,surface0200.png,0,0
+
+	animation8.interval,periodic,4
+	animation8.pattern0,overlay,103,0,0,0
+	animation8.pattern1,overlay,104,100,0,0
+	animation8.pattern2,overlay,108,80,0,0
+	animation8.pattern3,overlay,103,80,0,0
+}
+
+surface1540-1544,1640-1643,1740-1747,1840-1845
+{
+	element3,overlay,surface0104.png,0,0
+	element4,overlay,surface0200.png,0,0
+
+}
+
+surface1650-1653,1750-1751,1850
+{
+	element3,overlay,surface0105.png,0,0
+	element4,overlay,surface0200.png,0,0
+
+}
+
+surface1560-1562
+{
+	element4,overlay,surface0200.png,0,0
+
+	animation9.interval,periodic,4
+	animation9.pattern0,overlay,106,0,0,0
+	animation9.pattern1,overlay,104,100,0,0
+	animation9.pattern2,overlay,109,80,0,0
+	animation9.pattern3,overlay,106,80,0,0
+}
+
+//„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ‚³‚í‚è”½‰
+surface.append0,1000-1399,1500-1899
+{
+	collisionex0,“ª,polygon,291,89,312,86,312,100,334,107,364,132,376,160,293,166,224,166,235,136,248,117,264,106,270,89
+	collisionex1,–Ú,polygon,310,222,312,187,334,184,357,188,358,199,350,226
+	collisionex2,–Ú,polygon,234,200,254,193,281,193,281,224,248,232
+	collisionex3,¨,polygon,313,99,361,131,361,106,354,78,342,45,324,21,313,19
+	collisionex4,¨,polygon,264,18,271,41,274,95,256,110,231,146,224,114,228,93,241,51,253,25
+	collisionex5,–j,polygon,249,232,284,229,281,263,248,251
+	collisionex6,–j,polygon,315,223,323,264,354,244,358,219
+	collisionex7,Œû,polygon,279,235,307,234,312,261,296,271,282,264
+	collisionex8,ñ,polygon,295,272,325,258,326,274,337,285,313,288,288,279
+	collisionex9,‹¹,polygon,255,334,383,340,380,390,239,384
+	//collisionex10,XX,polygon,246,511,332,526,290,546,278,541,269,547
+	collisionex11,è,polygon,422,548,440,535,481,601,474,628,462,628,462,588,441,580,444,606,419,579
+	collisionex12,è,polygon,173,227,221,236,235,211,233,196,218,176,204,182,182,185
+	collisionex13,‘«,polygon,291,543,363,514,365,562,335,689,283,687,285,595
+	collisionex14,‘«,polygon,215,482,270,538,272,562,271,631,268,687,210,689,192,577,189,553,201,513
+	collisionex16,• ,polygib,250,401,320,402,362,413,363,465,355,504,284,517,247,497,223,476
+}
+
+//„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ‚Ö[‚¿‚á‚ñ•’Ê
+
+surface10,2010,2020,2030,2040,2500,2510,2520,2530,2540
+{
+	element0,overlay,surface0010.png,0,0
+	element1,overlay,surface0800.png,0,0
+	element2,overlay,surface0900.png,0,0
+}
+
+surface2001,2011,2021,2031,2041,2501,2511,2521,2531,2541
+{
+	element0,overlay,surface0010.png,0,0
+	element1,overlay,surface0802.png,0,0
+	element2,overlay,surface0900.png,0,0
+}
+
+surface2002,2012,2022,2032,2042
+{
+	element0,overlay,surface0010.png,0,0
+	element1,overlay,surface0803.png,0,0
+	element2,overlay,surface0900.png,0,0
+}
+
+surface2003,2013,2023,2033,2043,2502,2512,2522,2532,2542
+{
+	element0,overlay,surface0010.png,0,0
+	element1,overlay,surface0804.png,0,0
+	element2,overlay,surface0900.png,0,0
+}
+
+surface2004,2014,2024,2034,2044,2503,2513,2523,2533,2543
+{
+	element0,overlay,surface0010.png,0,0
+	element1,overlay,surface0805.png,0,0
+	element2,overlay,surface0900.png,0,0
+}
+
+surface2005,2015,2025,2035,2045,2504,2514,2524,2534,2544
+{
+	element0,overlay,surface0010.png,0,0
+	element1,overlay,surface0806.png,0,0
+	element2,overlay,surface0900.png,0,0
+}
+
+surface2060,2560
+{
+	element0,overlay,surface0010.png,0,0
+	element1,overlay,surface0801.png,0,0
+	element2,overlay,surface0900.png,0,0
+}
+
+surface2061,2561
+{
+	element0,overlay,surface0010.png,0,0
+	element1,overlay,surface0807.png,0,0
+	element2,overlay,surface0900.png,0,0
+}
+
+surface2062,2562
+{
+	element0,overlay,surface0010.png,0,0
+	element1,overlay,surface0808.png,0,0
+	element2,overlay,surface0900.png,0,0
+}
+
+//„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ‚É‚±
+
+surface2100,2110,2120,2130,2140,2150,2600,2610,2620,2630,2640,2650
+{
+	element0,overlay,surface0010.png,0,0
+	element1,overlay,surface0809.png,0,0
+	element2,overlay,surface0900.png,0,0
+}
+
+surface2101,2111,2121,2131,2141,2151,2601,2611,2621,2631,2641,2651
+{
+	element0,overlay,surface0010.png,0,0
+	element1,overlay,surface0810.png,0,0
+	element2,overlay,surface0900.png,0,0
+}
+
+surface2102,2112,2122,2132,2142,2152,2602,2612,2622,2632,2642,2652
+{
+	element0,overlay,surface0010.png,0,0
+	element1,overlay,surface0811.png,0,0
+	element2,overlay,surface0900.png,0,0
+}
+
+surface2103,2113,2123,2133,2143,2153,2603,2613,2623,2633,2643,2653
+{
+	element0,overlay,surface0010.png,0,0
+	element1,overlay,surface0812.png,0,0
+	element2,overlay,surface0900.png,0,0
+}
+
+//„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ‚È‚«
+
+surface2200,2210,2220,2230,2240,2700,2710,2720,2730,2740
+{
+	element0,overlay,surface0010.png,0,0
+	element1,overlay,surface0800.png,0,0
+	element2,overlay,surface0901.png,0,0
+}
+
+surface2201,2211,2221,2231,2241,2701,2711,2721,2731,2741
+{
+	element0,overlay,surface0010.png,0,0
+	element1,overlay,surface0801.png,0,0
+	element2,overlay,surface0901.png,0,0
+}
+
+surface2202,2212,2222,2232,2242,2702,2712,2722,2732,2742
+{
+	element0,overlay,surface0010.png,0,0
+	element1,overlay,surface0805.png,0,0
+	element2,overlay,surface0901.png,0,0
+}
+
+surface2203,2213,2223,2233,2243,2703,2713,2723,2733,2743
+{
+	element0,overlay,surface0010.png,0,0
+	element1,overlay,surface0806.png,0,0
+	element2,overlay,surface0901.png,0,0
+}
+
+surface2204,2214,2224,2234,2244,2704,2714,2724,2734,2744
+{
+	element0,overlay,surface0010.png,0,0
+	element1,overlay,surface0807.png,0,0
+	element2,overlay,surface0901.png,0,0
+}
+
+surface2205,2215,2225,2235,2245,2705,2715,2725,2735,2745
+{
+	element0,overlay,surface0010.png,0,0
+	element1,overlay,surface0808.png,0,0
+	element2,overlay,surface0901.png,0,0
+}
+
+surface2206,2216,2226,2236,2246,2250,2706,2716,2726,2736,2746,2750
+{
+	element0,overlay,surface0010.png,0,0
+	element1,overlay,surface0809.png,0,0
+	element2,overlay,surface0901.png,0,0
+}
+
+surface2207,2217,2227,2237,2247,2251,2707,2717,2727,2737,2747,2751
+{
+	element0,overlay,surface0010.png,0,0
+	element1,overlay,surface0812.png,0,0
+	element2,overlay,surface0901.png,0,0
+}
+
+//„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ‚¨‚±
+
+surface2300,2310,2320,2330,2340
+{
+	element0,overlay,surface0010.png,0,0
+	element1,overlay,surface0800.png,0,0
+	element2,overlay,surface0902.png,0,0
+}
+
+surface2301,2311,2321,2331,2341,2800,2810,2820,2830,2840
+{
+	element0,overlay,surface0010.png,0,0
+	element1,overlay,surface0801.png,0,0
+	element2,overlay,surface0902.png,0,0
+}
+
+surface2302,2312,2322,2332,2342,2801,2811,2821,2831,2841
+{
+	element0,overlay,surface0010.png,0,0
+	element1,overlay,surface0802.png,0,0
+	element2,overlay,surface0902.png,0,0
+}
+
+surface2303,2313,2323,2333,2343,2802,2812,2822,2832,2842
+{
+	element0,overlay,surface0010.png,0,0
+	element1,overlay,surface0805.png,0,0
+	element2,overlay,surface0902.png,0,0
+}
+
+surface2304,2314,2324,2334,2344
+{
+	element0,overlay,surface0010.png,0,0
+	element1,overlay,surface0806.png,0,0
+	element2,overlay,surface0902.png,0,0
+}
+
+surface2305,2315,2325,2335,2345,2803,2813,2823,2833,2843
+{
+	element0,overlay,surface0010.png,0,0
+	element1,overlay,surface0807.png,0,0
+	element2,overlay,surface0902.png,0,0
+}
+
+surface2306,2316,2326,2336,2346,2804,2814,2824,2834,2844
+{
+	element0,overlay,surface0010.png,0,0
+	element1,overlay,surface0808.png,0,0
+	element2,overlay,surface0902.png,0,0
+}
+
+surface2307,2317,2327,2337,2347,2350,2805,2815,2825,2835,2845,2850
+{
+	element0,overlay,surface0010.png,0,0
+	element1,overlay,surface0810.png,0,0
+	element2,overlay,surface0902.png,0,0
+}
+
+//„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ‚Ö‚É‚å
+
+surface2400,2410,2420,2430,2440,2900,2910,2920,2930,2940
+{
+	element0,overlay,surface0010.png,0,0
+	element1,overlay,surface0802.png,0,0
+	element2,overlay,surface0903.png,0,0
+}
+
+surface2401,2411,2421,2431,2441,2901,2911,2921,2931,2941
+{
+	element0,overlay,surface0010.png,0,0
+	element1,overlay,surface0803.png,0,0
+	element2,overlay,surface0903.png,0,0
+}
+
+surface2402,2412,2422,2432,2442,2902,2912,2922,2932,2942
+{
+	element0,overlay,surface0010.png,0,0
+	element1,overlay,surface0805.png,0,0
+	element2,overlay,surface0903.png,0,0
+}
+
+surface2403,2413,2423,2433,2443,2903,2913,2923,2933,2943
+{
+	element0,overlay,surface0010.png,0,0
+	element1,overlay,surface0806.png,0,0
+	element2,overlay,surface0903.png,0,0
+}
+
+surface2404,2414,2424,2434,2444,2904,2914,2924,2934,2944
+{
+	element0,overlay,surface0010.png,0,0
+	element1,overlay,surface0808.png,0,0
+	element2,overlay,surface0903.png,0,0
+}
+
+//„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ–ÚƒAƒjƒ
+surface10,2001-2005,2100-2103,2200-2207,2300-2307,2400-2404
+{
+	animation0.interval,periodic,4
+	animation0.pattern0,overlay,600,0,0,0
+	animation0.pattern1,overlay,604,100,0,0
+	animation0.pattern2,overlay,607,80,0,0
+	animation0.pattern3,overlay,601,80,0,0
+	animation0.pattern4,overlay,600,80,0,0
+}
+
+surface2010-2015,2110-2113,2210-2217,2310-2317,2410-2414
+{
+	animation1.interval,periodic,4
+	animation1.pattern0,overlay,601,0,0,0
+	animation1.pattern1,overlay,604,100,0,0
+	animation1.pattern2,overlay,607,80,0,0
+	animation1.pattern3,overlay,601,80,0,0
+}
+
+surface2020-2025,2120-2123,2220-2227,2320-2327,2420-2424
+{
+	animation2.interval,periodic,4
+	animation2.pattern0,overlay,602,0,0,0
+	animation2.pattern1,overlay,604,100,0,0
+	animation2.pattern2,overlay,608,80,0,0
+	animation2.pattern3,overlay,603,80,0,0
+	animation2.pattern4,overlay,602,80,0,0
+}
+
+surface2030-2035,2130-2133,2230-2237,2330-2337,2430-2434
+{
+	animation3.interval,periodic,4
+	animation3.pattern0,overlay,603,0,0,0
+	animation3.pattern1,overlay,604,100,0,0
+	animation3.pattern2,overlay,608,80,0,0
+	animation3.pattern3,overlay,603,80,0,0
+}
+
+surface2040-2045,2140-2143,2240-2247,2340-2347,2440-2444
+{
+	element3,overlay,surface0604.png,0,0
+}
+
+surface2150-2153,2250-2251,2350
+{
+	element3,overlay,surface0605.png,0,0
+}
+
+surface2060-2062
+{
+	animation4.interval,periodic,4
+	animation4.pattern0,overlay,606,0,0,0
+	animation4.pattern1,overlay,604,100,0,0
+	animation4.pattern2,overlay,609,80,0,0
+	animation4.pattern3,overlay,606,80,0,0
+}
+
+//„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ–ÚƒAƒjƒÆ‚ê
+surface2500-2504,2600-2603,2700-2707,2800-2805,2900-2904
+{
+	element4,overlay,surface0700.png,0,0
+
+	animation5.interval,periodic,4
+	animation5.pattern0,overlay,600,0,0,0
+	animation5.pattern1,overlay,604,100,0,0
+	animation5.pattern2,overlay,607,80,0,0
+	animation5.pattern3,overlay,601,80,0,0
+	animation5.pattern4,overlay,600,80,0,0
+}
+
+surface2510-2514,2610-2613,2710-2717,2810-2815,2910-2914
+{
+	element4,overlay,surface0700.png,0,0
+
+	animation6.interval,periodic,4
+	animation6.pattern0,overlay,600,0,0,0
+	animation6.pattern1,overlay,604,100,0,0
+	animation6.pattern2,overlay,607,80,0,0
+	animation6.pattern3,overlay,601,80,0,0
+}
+
+surface2520-2524,2620-2623,2720-2727,2820-2825,2920-2924
+{
+	element4,overlay,surface0700.png,0,0
+
+	animation7.interval,periodic,4
+	animation7.pattern0,overlay,602,0,0,0
+	animation7.pattern1,overlay,604,100,0,0
+	animation7.pattern2,overlay,608,80,0,0
+	animation7.pattern3,overlay,603,80,0,0
+	animation7.pattern4,overlay,602,80,0,0
+}
+
+surface2530-2534,2630-2633,2730-2737,2830-2835,2930-2934
+{
+	element4,overlay,surface0700.png,0,0
+
+	animation8.interval,periodic,4
+	animation8.pattern0,overlay,603,0,0,0
+	animation8.pattern1,overlay,604,100,0,0
+	animation8.pattern2,overlay,608,80,0,0
+	animation8.pattern3,overlay,603,80,0,0
+}
+
+surface2540-2544,2640-2643,2740-2747,2840-2845,2940-2944
+{
+	element3,overlay,surface0604.png,0,0
+	element4,overlay,surface0700.png,0,0
+
+}
+
+surface2650-2653,2750-2751,2850
+{
+	element3,overlay,surface0605.png,0,0
+	element4,overlay,surface0700.png,0,0
+
+}
+
+surface2560-2562
+{
+	element4,overlay,surface0700.png,0,0
+
+	animation9.interval,periodic,4
+	animation9.pattern0,overlay,606,0,0,0
+	animation9.pattern1,overlay,604,100,0,0
+	animation9.pattern2,overlay,609,80,0,0
+	animation9.pattern3,overlay,606,80,0,0
+}
+
+//„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ‚³‚í‚è”½‰
+surface.append10,2000-2399,2500-2899
+{
+	collisionex0,“ª,polygon,326,81,352,89,363,120,379,165,301,159,216,154,219,141,240,116,265,90,291,78
+	collisionex1,–Ú,polygon,308,194,333,189,356,197,343,229,306,222
+	collisionex2,–Ú,polygon,236,193,259,183,281,196,281,225,243,223
+	collisionex3,Šp,polygon,358,12,360,39,383,71,408,124,408,162,394,202,378,208,379,172,369,144,361,115,354,92,348,72,343,37
+	collisionex4,Šp,polygon,263,13,277,26,277,48,268,80,263,98,233,118,219,143,209,179,201,130,212,95,231,75,249,52,261,38
+	collisionex5,–j,polygon,315,225,355,224,350,250,309,269
+	collisionex6,–j,polygon,243,220,279,222,274,260,245,243
+	collisionex7,Œû,polygon,275,238,310,241,310,263,291,273,276,263
+	collisionex8,ñ,polygon,297,270,320,263,321,287,334,295,312,312,296,301,279,305,275,295,288,281,287,269
+	collisionex9,‹¹,polygon,229,327,358,349,353,409,213,392
+	//collisionex10,XX,polygon,219,523,308,535,275,555,260,556
+	collisionex11,è,polygon,364,573,390,579,394,632,365,656,363,640,354,631,354,597
+	collisionex12,è,polygon,206,508,224,473,209,466,195,478,193,499
+	collisionex13,‘«,polygon,273,553,337,521,341,581,340,685,277,688,269,590
+	collisionex14,‘«,polygon,199,504,262,555,267,570,258,691,206,692,194,590,189,545
+	collisionex15,K”ö,polygon,131,393,147,456,139,523,120,583,104,647,112,692,20,691,18,625,33,591,56,556,81,535,115,496,126,454
+}
+
+//„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ#1
