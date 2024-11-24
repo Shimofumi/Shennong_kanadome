@@ -38,7 +38,7 @@ file,shell/master/descript.txt5ac2059912563784b7e8a736d699298fsize=582date=20
 file,shell/master/install.txtc036bd4c9a33f408b7d8a1bd8079fcc9size=89date=2012-12-21T00:00:00
 file,shell/master/menu_background.png41e3a285424fe4172ab8e9c3c95476b8size=99860date=2012-12-21T00:00:00
 file,shell/master/menu_foreground.pnge777a0c4ffbcbd04ee58ad4dbd5034besize=67902date=2012-12-21T00:00:00
-file,shell/master/readme.txta5752e901d1e86cd11e27c601392b105size=25date=2012-12-21T00:00:00
+file,shell/master/readme.txtf8eb07d15f3971369c3eabc2a5e90b5bsize=459date=2012-12-21T00:00:00
 file,shell/master/surface0000.apng73ec8e2741d3a40f7e9a40979b28cf76size=126870date=2012-12-21T00:00:00
 file,shell/master/surface0000.png99047d7ee5b08352e2b15eeb857c149csize=124132date=2012-12-21T00:00:00
 file,shell/master/surface0010.apng3715e814b0a0b894ed668ca6c82255b5size=149598date=2012-12-21T00:00:00
