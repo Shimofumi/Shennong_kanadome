@@ -9,7 +9,7 @@ file,etc/tama.txt1ca36c34b227a8d408d4e9cd485483cesize=523date=2012-12-21T00:0
 file,ghost/master/descript.txt8f51e4a5e08fc859b4fc286f5544b73esize=238date=2012-12-21T00:00:00
 file,ghost/master/dic/emerg/yaya_emerg_dic.dicafd0b1b5b1651c40b167a9a766b354fdsize=641date=2012-12-21T00:00:00
 file,ghost/master/dic/emerg/yaya_homeurl.dice4416b4af9cab042d9355d941fca8a97size=646date=2012-12-21T00:00:00
-file,ghost/master/dic/normal/yaya_aitalk.dicf567997e14386ec1037dee8b7b528595size=6547date=2012-12-21T00:00:00
+file,ghost/master/dic/normal/yaya_aitalk.dic650e4dbf070f1994131defc3134db114size=6675date=2012-12-21T00:00:00
 file,ghost/master/dic/normal/yaya_bootend.dic4feb63304efca233715dc77455d0803bsize=4708date=2012-12-21T00:00:00
 file,ghost/master/dic/normal/yaya_change.dicb45cd5144effdf73f3c0d00c757ad81asize=3555date=2012-12-21T00:00:00
 file,ghost/master/dic/normal/yaya_communicate.dicd167f64b5a2873186d4f3ab444efc1c8size=3535date=2012-12-21T00:00:00
