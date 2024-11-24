@@ -13,7 +13,7 @@ file,ghost/master/dic/normal/yaya_aitalk.dicf567997e14386ec1037dee8b7b528595si
 file,ghost/master/dic/normal/yaya_bootend.dic4feb63304efca233715dc77455d0803bsize=4708date=2012-12-21T00:00:00
 file,ghost/master/dic/normal/yaya_change.dicb45cd5144effdf73f3c0d00c757ad81asize=3555date=2012-12-21T00:00:00
 file,ghost/master/dic/normal/yaya_communicate.dicd167f64b5a2873186d4f3ab444efc1c8size=3535date=2012-12-21T00:00:00
-file,ghost/master/dic/normal/yaya_etc.dicb68d36fb38be32940d851e94a37a3179size=13915date=2012-12-21T00:00:00
+file,ghost/master/dic/normal/yaya_etc.dicaa9ba18d97f8f288ddccb859d58f1c2esize=13605date=2012-12-21T00:00:00
 file,ghost/master/dic/normal/yaya_feeding.dic072bb0433a375d5b74e0ad76f253bf49size=34623date=2012-12-21T00:00:00
 file,ghost/master/dic/normal/yaya_homeurl.dice4416b4af9cab042d9355d941fca8a97size=646date=2012-12-21T00:00:00
 file,ghost/master/dic/normal/yaya_menu.dic1bfac3a022d351c09801aa3c09b119ebsize=8424date=2012-12-21T00:00:00
