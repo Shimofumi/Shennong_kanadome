@@ -1,5 +1,5 @@
 charset,UTF-8
-file,delete.txt94897f9507095572661834ae4e01e17csize=1617date=2012-12-21T00:00:00
+file,delete.txt6eb3e10328c0afe0b778257052759869size=1629date=2012-12-21T00:00:00
 file,etc/auto_release.yml78c43b5cee7db68bc35013d7519db8d9size=1141date=2012-12-21T00:00:00
 file,etc/readme-aya.txtca7ca11cf43709352523e72259116a8asize=588date=2012-12-21T00:00:00
 file,etc/readme-tama.txtf3090c2cd5e4e396cf948be4a5756825size=4063date=2012-12-21T00:00:00
