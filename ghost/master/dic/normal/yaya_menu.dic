@@ -203,7 +203,7 @@ OpenMenu_8
 	--
 	AYATEMPLATE.MenuItem("前のページへ","OpenMenu_7",150)
 	--
-	AYATEMPLATE.MenuItem("おしまい","OpenMenu_9",100)
+	AYATEMPLATE.MenuItem("次のページへ","OpenMenu_9",100)
 }
 
 OpenMenu_9
