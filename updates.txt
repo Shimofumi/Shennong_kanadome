@@ -10,7 +10,7 @@ file,ghost/master/dic/normal/yaya_communicate.dicd167f64b5a2873186d4f3ab444efc1
 file,ghost/master/dic/normal/yaya_etc.dicaa9ba18d97f8f288ddccb859d58f1c2esize=13605date=2012-12-21T00:00:00
 file,ghost/master/dic/normal/yaya_feeding.dic56789e425fa1c93ec0bf27d76c72459bsize=39241date=2012-12-21T00:00:00
 file,ghost/master/dic/normal/yaya_homeurl.dice4416b4af9cab042d9355d941fca8a97size=646date=2012-12-21T00:00:00
-file,ghost/master/dic/normal/yaya_menu.dic48f899a2d185780ffc5087526b06aba6size=9016date=2012-12-21T00:00:00
+file,ghost/master/dic/normal/yaya_menu.dic9bf7980b9aa5c8895f84070adf73cbe9size=9022date=2012-12-21T00:00:00
 file,ghost/master/dic/normal/yaya_mouse.dic7504b9446a09bb5bd8fd9a4654ffe88esize=4625date=2012-12-21T00:00:00
 file,ghost/master/dic/normal/yaya_string.dic9c6be6de857e51cb5d20ee5f30e1ca33size=4062date=2012-12-21T00:00:00
 file,ghost/master/dic/normal/yaya_tmpl_util.dic1e901ad29f8ccd09c50332ada6b0dbdbsize=8578date=2012-12-21T00:00:00
