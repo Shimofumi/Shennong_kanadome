@@ -203,8 +203,32 @@ OpenMenu_8
 	--
 	AYATEMPLATE.MenuItem("前のページへ","OpenMenu_7",150)
 	--
+	AYATEMPLATE.MenuItem("おしまい","OpenMenu_9",100)
+}
+
+OpenMenu_9
+{
+	\b[2]
+	--
+	'\0\s[1005]献上せよ！'
+	"\0\s[1005]何をくれるのだ？"
+	'\0\s[1061]（目をキラキラと輝かせている）'
+	--
+	AYATEMPLATE.MenuItem("ハバネロ","feed_habanero",200)
+	--
+	AYATEMPLATE.MenuItem("とかげ","feed_tokage")
+	--
+	AYATEMPLATE.MenuItem("手紙","feed_tegami")
+	--
+	AYATEMPLATE.MenuItem("イトヒキミジンアリタケ","feed_itohikimijinaritake")
+	--
+	AYATEMPLATE.MenuItem("バラムツ","feed_baramutsu")
+	--
+	AYATEMPLATE.MenuItem("前のページへ","OpenMenu_8",150)
+	--
 	AYATEMPLATE.MenuItem("おしまい","OpenMenu",100)
 }
+
 
 //------------------------------------------------------------------------------
 //メニュー選択タイムアウト
